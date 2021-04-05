@@ -3,7 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PearOS's documentation - Home
+.. _home:
+
+PearOS Docs - Home
 ==================================
 
 .. toctree::
@@ -13,9 +15,7 @@ PearOS's documentation - Home
    versions
 
 
-Index
+Documentation
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+This is the new PearOS documentation. It has all the information you need about PearOS: A Linux distribution inspired by macOS. This documentation is currently a work in progress, and if there is any info that is not on here that you think should be added please ask IAJ on discord. 

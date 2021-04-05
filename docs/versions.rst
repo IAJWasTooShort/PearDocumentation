@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. _versions:
+
 Versions:
 ==================================
 
@@ -16,6 +18,10 @@ PearOS has multiple different versions.
 
 Thiccsur
 ==================
+
+Thiccsur is the latest release of PearOS
+
+For more info go to :ref:`thiccsur`
 
 SnowMojave
 ==================
