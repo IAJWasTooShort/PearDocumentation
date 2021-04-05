@@ -9,14 +9,8 @@ Welcome to PearOS's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
-Versions
-==================
-
-* :ref:`thiccsur`
-* :ref:`modindex`
-* :ref:`search`
+   
+   versions
 
 
 Index

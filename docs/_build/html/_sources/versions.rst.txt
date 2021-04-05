@@ -3,19 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PearOS's documentation!
+Versions:
 ==================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
-   versions
+   *
 
+PearOS has multiple different versions.
 
-Index
+Thiccsur
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+SnowMojave
+==================
+
+Catalina
+==================
