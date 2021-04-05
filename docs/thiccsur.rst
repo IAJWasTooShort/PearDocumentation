@@ -12,11 +12,10 @@ ThiccSur
 ==================
 
 ThiccSur is the latest release of PearOS	
+[INSERT TEXT HERE]
 
 
-Index
+[FOOTER]
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+[INSERT TEXT HERE]

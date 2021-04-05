@@ -19,3 +19,6 @@ Documentation
 ==================
 
 This is the new PearOS documentation. It has all the information you need about PearOS: A Linux distribution inspired by macOS. This documentation is currently a work in progress, and if there is any info that is not on here that you think should be added please ask IAJ on discord. 
+
+
+[INSERT TEXT HERE]

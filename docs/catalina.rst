@@ -13,10 +13,9 @@
 Catalina
 ==================
 
+[INSERT TEXT HERE]
 
-Index
+[FOOTER]
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+[INSERT TEXT HERE]
