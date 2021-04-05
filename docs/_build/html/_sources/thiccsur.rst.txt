@@ -11,7 +11,8 @@
 ThiccSur
 ==================
 
-ThiccSur is the latest release of PearOS	
+ThiccSur is the latest release of PearOS
+	
 [INSERT TEXT HERE]
 
 
