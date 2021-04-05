@@ -1,17 +1,17 @@
-.. PearOS documentation thiccsur file, created by IAJ
+.. PearOS documentation catalina file, created by IAJ
 
-.. _thiccsur:
+.. _catalina:
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   catalina
+
    *
 
-ThiccSur
+Catalina
 ==================
-
-ThiccSur is the latest release of PearOS	
 
 
 Index

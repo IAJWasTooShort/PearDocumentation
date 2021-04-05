@@ -1,17 +1,18 @@
-.. PearOS documentation thiccsur file, created by IAJ
+.. PearOS documentation snowmojave file, created by IAJ
 
-.. _thiccsur:
+.. _snowmojave:
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   snowmojave
+
    *
 
-ThiccSur
+SnowMojave
 ==================
 
-ThiccSur is the latest release of PearOS	
 
 
 Index
