@@ -30,6 +30,6 @@ For more info go to :ref:`SnowMojave <snowmojave>`
 Catalina
 ==================
 
-Idk whats going on with Catalina
+Catalina was released, then taken down i think idk i need to write something here but idk what to so yh
 
 For more info go to :ref:`Catalina <catalina>`
