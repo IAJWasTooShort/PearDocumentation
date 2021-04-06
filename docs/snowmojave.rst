@@ -6,9 +6,6 @@
    :maxdepth: 2
    :caption: Contents:
 
-   snowmojave
-
-   *
 
 SnowMojave
 ==================

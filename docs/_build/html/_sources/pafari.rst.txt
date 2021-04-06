@@ -1,16 +1,18 @@
-.. PearOS documentation catalina file, created by IAJ
+.. PearOS documentation pafari file, created by IAJ
 
-.. _catalina:
+.. _pafari:
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-Catalina
+Pafari
 ==================
 
+Pafari is the in progress default browser for PearOS
+
 [INSERT TEXT HERE]
+
 
 [FOOTER]
 ==================

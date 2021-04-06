@@ -3,15 +3,13 @@
 .. _versions:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    
-   *
+Versions
+^^^^^^^^^^^^
 
-Versions:
-==================
-
-PearOS has multiple different versions.
+The PearOS Operating System has multiple different versions.
 
 Thiccsur
 ==================
