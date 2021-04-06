@@ -24,3 +24,5 @@ PearDrop
 ==================
 
 PearDrop is the connection app that links your android device to your PearOS device.
+
+For more info go to :ref:`PearDrop <peardrop>`

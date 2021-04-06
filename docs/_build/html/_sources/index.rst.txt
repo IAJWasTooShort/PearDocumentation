@@ -43,4 +43,4 @@ This is the new Official PearOS documentation. It has all the information you ne
 PearOS
 ==================
 
-PearOS is a Linux Distibution inspired by Apple's macOS. It features a clean UI, and apps that can be personalised to your liking.
+PearOS is a Linux Distibution inspired by Apple's macOS. It features a clean UI, and apps that can be personalised to your liking. It is an entirely free operating system, with lots of useful features, a beautiful design, and regular updates.
