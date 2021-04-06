@@ -9,7 +9,7 @@
 Pafari
 ==================
 
-Pafari is the in progress default browser for PearOS
+Pafari is the new (in development) default browser for PearOS. It is based on chromium and has a clean UI.
 
 [INSERT TEXT HERE]
 
