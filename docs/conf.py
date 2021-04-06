@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'PearOS'
-copyright = '2021, alxb421, IAJ'
-author = 'alxb421, IAJ'
+copyright = '2021, alxb421 and IAJ'
+author = 'alxb421 and IAJ'
 
 
 # -- General configuration ---------------------------------------------------
