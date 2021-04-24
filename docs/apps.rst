@@ -26,3 +26,11 @@ PearDrop
 PearDrop is the connection app that links your android device to your PearOS device.
 
 For more info go to :ref:`PearDrop <peardrop>`
+
+
+Clean My Pear
+==================
+
+Clean My Pear is the PearOS cleanup tool.
+
+For more info go to :ref:`Clean My Pear <cleanmypear>` [NOT MADE YET]
